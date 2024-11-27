@@ -108,8 +108,8 @@ Project Structure
 │   │   ├── UserManagement.js
 │   │   ├── AccessRequestSystem.js
 │   │   └── ProtectedRoute.js
-│   ├── /api
 │   │   └── mockApi.js
+│   ├── Style.css
 │   ├── App.js
 │   └── index.js
 └── /node_modules
